@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="159" style="background:#f2f2f2;font:24px/33px sans-serif;">
+	<g stroke="#949494" stroke-dasharray="7">
+		<line x2="100%" y2="100%" />
+		<line x1="100%" y2="100%"/>
+	</g>
+	<g text-anchor="middle">
+		<use href="#t" stroke="#f2f2f2" stroke-width="18"/>
+		<text x="50%" y="50%" id="t" alignment-baseline="middle">234×456</text>
+		<text x="50%" y="80%" style="font-size:18px;fill:#9c9c9c">100×100</text>
+	</g>
+</svg>
